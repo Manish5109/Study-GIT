@@ -15,7 +15,7 @@ public class WebRestController {
 	// new meeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 	@Autowired
 	KafkaProducer producer;
-	
+	// tetttttttttttttttttttttttttt
 	@Autowired
 	MessageStorage storage;
 	
